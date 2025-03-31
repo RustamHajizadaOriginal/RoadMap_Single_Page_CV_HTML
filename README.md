@@ -1,6 +1,6 @@
 # Project Title
 
-This is simple Single page CV with HTML only for Rustam Hajizada
+This is  Single page CV with HTML only for Rustam Hajizada
 
 ## Project URL
 
