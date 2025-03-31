@@ -1,2 +1,3 @@
-https://roadmap.sh/projects/single-page-cv
-https://rustamhajizadasinglepagecvhtml.vercel.app/
+## Project URL
+
+You can access the project at the following URL:https://rustamhajizadasinglepagecvhtml.vercel.app/
