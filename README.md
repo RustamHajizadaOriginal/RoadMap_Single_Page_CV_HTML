@@ -4,7 +4,7 @@ This is simple Single page CV with HTML only for Rustam Hajizada
 
 ## Project URL
 
-You can access the project at the following URL:https://rustamhajizadasinglepagecvhtml.vercel.app/
+You can access the project at the following URL:https://roadmap.sh/projects/single-page-cv
 
 ## Installation
 
