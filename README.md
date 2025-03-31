@@ -11,4 +11,5 @@ You can access the project at the following URL:https://roadmap.sh/projects/sing
 
 You can checkout the Project in here : https://rustamhajizadasinglepagecvhtml.vercel.app/
 
-![image](https://github.com/user-attachments/assets/9f76d9c4-da0f-49bb-a5dd-432e7a6a4b5c)
+![image](https://github.com/user-attachments/assets/079e6e19-e67c-454f-88a9-5579a4a1d7d1)
+
